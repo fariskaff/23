@@ -1,0 +1,6 @@
+MEMBUAT FOLDER PROYEK BARU
+mkdir nama-proyek
+cd nama-proyek
+
+NAMBAH FILE TERTENTU 
+git add nama-file.txt
