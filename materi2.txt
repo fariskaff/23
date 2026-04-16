@@ -1,3 +1,0 @@
-git add nama-file
-git commit -m "pesan"
-git status
